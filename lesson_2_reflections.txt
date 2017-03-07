@@ -17,10 +17,24 @@ add one by one to the repository
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches will be helpful when we want to kepp the 2 different versions of the same product. 
+If we have made some changes but they are not finalized yet so we can keep it in different branch.
+
 How do the diagrams help you visualize the branch structure?
+
+Diagrams help us to see at what point the changes were committed and what will be 
+visible in any branch. It also keep track that which branches contains which commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+While merging we are creating one commit where the changes from both the branches will be present.
+We represent in the diagram so that we come to know what the changes that will
+ exist after merging of the file.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+When we merging we know what the changes that we want to rreflect in the real
+commit in the next section where as in automatic it may lead to the stages where 
+the code might not run or compile
