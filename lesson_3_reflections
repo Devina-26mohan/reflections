@@ -7,3 +7,16 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 Because we dont want all the changes to be made public available until andd unless
 they are not completely ready for public profile.
+
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+Clones is copying between github and locally or both locally. 
+Fork is copying from one github account to another github account.
+Branches are within the same repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+Because then we pull the changes from the remote location and reach a commit stage where both
+remote and local changes are stored.
