@@ -20,3 +20,10 @@ stored locally?
 
 Because then we pull the changes from the remote location and reach a commit stage where both
 remote and local changes are stored.
+
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+We could collaborate by asking suggestions via phone or emails and discuss it when meet in person.
+This will be really tedious as there might be the possibility when the next person misses the call
+or miss an email.
