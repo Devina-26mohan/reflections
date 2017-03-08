@@ -27,3 +27,9 @@ and what would be harder?
 We could collaborate by asking suggestions via phone or emails and discuss it when meet in person.
 This will be really tedious as there might be the possibility when the next person misses the call
 or miss an email.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+When more than one people are working on the same files and you need to ask them that
+whether they agree on the same change and if they agree than collaborate into the master branch
+
